@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm fredwlassow13
+## A Software Engineering Student 
+
+
 
 <!--
 **fredwlassow13/fredwlassow13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
