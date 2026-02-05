@@ -1,7 +1,10 @@
 <h2 align="center">Hi, I'm fredwlassow13 </h2>
 <h3 align="center">A Software Engineering Student</h3>
 
-Currently building / studying
+<p align="center">
+  🔧 Backend & API projects <br/>
+  📚 Software Engineering student
+</p>
 
 ## Connect with me:
 
