@@ -1,9 +1,14 @@
-<h2 align="center">Hi, I'm fredwlassow13 </h2>
-<h3 align="center">A Software Engineering Student</h3>
+<h2 align="center">Hi, I'm Frederico Wlassow </h2>
+<h3 align="center">
+Software Engineering Student | AI & Machine Learning | Quantum Computing
+</h3>
 
 <p align="center">
-  🔧 Backend & API projects <br/>
-  📚 Software Engineering student
+  Passionate about Artificial Intelligence, Quantum Machine Learning, backend development, and software engineering.
+</p>
+
+<p align="center">
+  Currently focused on AI projects involving LLMs, computer vision, automation, and cloud technologies.
 </p>
 
 ## Connect with me:
@@ -15,6 +20,11 @@
        height="40"/>
 </a>
 
+## About Me
+
+Software Engineering student at INATEL with interests in Artificial Intelligence, Machine Learning, Quantum Computing, backend development, and cloud technologies.
+Experience developing projects using Python, Java, Docker, AWS, REST APIs, Jenkins, and computer vision tools such as YOLOv5.
+Currently exploring Quantum Machine Learning, LLM applications, automation systems, and scalable software architectures.
 
 ## 🛠️ Tech Stack:
 
