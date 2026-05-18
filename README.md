@@ -56,4 +56,4 @@ Java-based management system featuring layered architecture, automated testing, 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-original.svg" width="40"/>
 <img src="https://cdn.simpleicons.org/githubactions" width="40"/>
-<img src="https://cdn.simpleicons.org/amazonaws" width="40"/>
+<img src="https://skillicons.dev/icons?i=aws" width="40"/>
